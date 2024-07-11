@@ -1,7 +1,3 @@
-Sure, here is a shorter version of the description for your README file:
-
----
-
 # Career Buddy
 
 Career Buddy is a web-based platform offering career guidance through interactive roadmaps, quizzes, and AI-driven counseling.
